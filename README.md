@@ -1,5 +1,3 @@
-# ツ EcoSnap Api Project
-
 # ツ The Aim of This Project
 
 <p align="justify">In this project, my aim is to reach the coordinates of some parts of bad things that must fixed in Hacettepe University Beytepe campus after taking photos with EcoSnap application.</p>

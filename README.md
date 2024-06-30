@@ -1,4 +1,6 @@
-# EcoSnap Api Project
+<p align="center"># EcoSnap Api Project </p>
+
+---
 
 # ツ The Aim of This Project
 
